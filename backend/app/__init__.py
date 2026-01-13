@@ -1,0 +1,1 @@
+# SchemaSense Schema Generator Application Package
