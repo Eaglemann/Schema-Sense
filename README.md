@@ -1,5 +1,7 @@
 # SchemaSense
 
+Instantly transform raw CSV data into production-ready MySQL schemas with AI-powered insights.
+
 ## How to Run
 
 ### Prerequisites
